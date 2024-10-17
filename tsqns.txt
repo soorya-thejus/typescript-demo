@@ -1,0 +1,8 @@
+TypeScript 
+1.create employee object with field like employee id name email psswd keep emp id unique try to access all the datatypes
+2.create a theatre app user can choose the seat selections based on his interests. cancellation option also
+3.create a employee object find out the employees of different departments and their total salaries
+4.create some functions and develop a calculator app by using ts
+5.library management system. represent various entities books authors and library members
+6.develop a ts application to calculate the insurance premium based on the various factors like in a groww app
+7.develop a hotel reservation system that includes hotel room id price availability etc main functionalities: manage all the list of hotel rooms allows the customer to check availability, book a room how many no of nights, calc the total cost for stay
